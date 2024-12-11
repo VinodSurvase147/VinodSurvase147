@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinodSurvase147
-- 👀 I’m interested in MS Defender, Entra ID, Security and Copilot and Cybersecurity 
-- 🌱 I’m currently learning MS Defender, Entra ID, Security and Copilot
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in MS Defender Suit, Entra ID, Security and Copilot and Cybersecurity 
+- 🌱 I’m currently learning Advanced Security and Copilot along with Azure AI and AI/ML capabilities
+- 💞️ I’m looking to collaborate on different M365, Azure and MS Defender suit trainings and projects
 - 📫 How to reach me at vinod.survase@hotmail.com
 
 <!---
